@@ -1,6 +1,6 @@
 # a1
 
-# part1 
+# The Luddy Puzzle 
 
 ## Inititalising moves for original, luddy and circular moves
 ```
