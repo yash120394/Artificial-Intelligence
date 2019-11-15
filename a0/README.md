@@ -1,5 +1,4 @@
-# a0
-# part 1 
+# find_luddy.py
  
 - Intially, the code was using stack concept which was going on a infinite loop. Due to this the code was not able give the solution. 
 - The solution to this problem was implemented using queue concept using pop(0) which is FIFO Data Structure
@@ -34,7 +33,7 @@ def search1(IUB_map):
     return 'Inf'
 ```
 
-#part 2
+# hide.py
 
 - Intially it was placing friends in random places without checking if two friends can see each other.
 - The solution to this problem was implmented by creating a check function which checks if at a particular position a friend can be placed or not. The board was converted into array because accessing the rows and columns is possible in the array data type.If a row and column does not contain 'F', return true. If not, create a list containing rows above and below and columns left and right. Check either the list is empty or does not contain 'F' at the nearest position from current position after removing sidewalks from the list. If the condition satisfy, return true else false.

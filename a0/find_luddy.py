@@ -3,7 +3,6 @@
 # find_luddy.py 
 #
 # Submitted by : [Yash Kumar, yashkuma@iu.edu]
-#python3 /u/yashkuma/yashkuma-a0/find_luddy.py /u/yashkuma/yashkuma-a0/map.txt 
 
 import sys
 import json

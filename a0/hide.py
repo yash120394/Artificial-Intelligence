@@ -8,7 +8,6 @@
 #
 # The problem to be solved is this:
 # Given a campus map, find a placement of F friends so that no two can find one another.
-#python3 /u/yashkuma/yashkuma-a0/hide.py /u/yashkuma/yashkuma-a0/map.txt 9
 
 import sys
 import numpy as np
